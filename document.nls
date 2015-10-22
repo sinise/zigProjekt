@@ -1,0 +1,25 @@
+\begin{thenomenclature} 
+
+ \nomgroup{A}
+
+  \item [{AIS}]\begingroup Automatic Identification System\nomeqref {0}
+		\nompageref{5}
+  \item [{APL}]\begingroup Aplication Layer\nomeqref {0}\nompageref{7}
+  \item [{APS}]\begingroup Application Support Layer\nomeqref {0}
+		\nompageref{7}
+  \item [{IoT}]\begingroup Internet of Things\nomeqref {0}
+		\nompageref{2}
+  \item [{MAC}]\begingroup Medium Access Layer\nomeqref {0}
+		\nompageref{7}
+  \item [{NWK}]\begingroup Network Layer\nomeqref {0}\nompageref{7}
+  \item [{OSI-model}]\begingroup Open System Interconnection Reference Model\nomeqref {0}
+		\nompageref{5}
+  \item [{PHY}]\begingroup Physical Layer\nomeqref {0}\nompageref{6}
+  \item [{PLME-SAP}]\begingroup Physical Layer Management Entity Service Access Point\nomeqref {0}
+		\nompageref{6}
+  \item [{SAP}]\begingroup Service Access Point\nomeqref {0}
+		\nompageref{6}
+  \item [{ZDO}]\begingroup ZigBee Device Object\nomeqref {0}
+		\nompageref{7}
+
+\end{thenomenclature}

@@ -2,24 +2,39 @@
 
  \nomgroup{A}
 
+  \item [{ACK}]\begingroup Acknowledgement\nomeqref {0}\nompageref{7}
   \item [{AIS}]\begingroup Automatic Identification System\nomeqref {0}
-		\nompageref{5}
-  \item [{APL}]\begingroup Aplication Layer\nomeqref {0}\nompageref{7}
+		\nompageref{4}
+  \item [{APL}]\begingroup Aplication Layer\nomeqref {0}\nompageref{10}, 
+		\nompageref{A}
   \item [{APS}]\begingroup Application Support Layer\nomeqref {0}
+		\nompageref{10}
+  \item [{CCA}]\begingroup Clear Channel   Assement\nomeqref {0}
+		\nompageref{6}
+  \item [{CSMA-CA}]\begingroup Carrier Sense Multiple Access with Collition Avoidance\nomeqref {0}
+		\nompageref{7}
+  \item [{GTS}]\begingroup Garantied Time Slot\nomeqref {0}
 		\nompageref{7}
   \item [{IoT}]\begingroup Internet of Things\nomeqref {0}
-		\nompageref{2}
+		\nompageref{1}
+  \item [{LQI}]\begingroup Link Quality   Indicator\nomeqref {0}
+		\nompageref{6}
   \item [{MAC}]\begingroup Medium Access Layer\nomeqref {0}
-		\nompageref{7}
-  \item [{NWK}]\begingroup Network Layer\nomeqref {0}\nompageref{7}
+		\nompageref{6}
+  \item [{NLME-SAP}]\begingroup Network Layer Management Entety Service Access Point\nomeqref {0}
+		\nompageref{6}
+  \item [{NWK}]\begingroup Network Layer\nomeqref {0}\nompageref{8}, 
+		\nompageref{A}
   \item [{OSI-model}]\begingroup Open System Interconnection Reference Model\nomeqref {0}
 		\nompageref{5}
+  \item [{PAN}]\begingroup Personal Area Network\nomeqref {0}
+		\nompageref{6}
   \item [{PHY}]\begingroup Physical Layer\nomeqref {0}\nompageref{6}
   \item [{PLME-SAP}]\begingroup Physical Layer Management Entity Service Access Point\nomeqref {0}
 		\nompageref{6}
   \item [{SAP}]\begingroup Service Access Point\nomeqref {0}
-		\nompageref{6}
+		\nompageref{5}
   \item [{ZDO}]\begingroup ZigBee Device Object\nomeqref {0}
-		\nompageref{7}
+		\nompageref{10}
 
 \end{thenomenclature}
